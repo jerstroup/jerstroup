@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jer!
 
-🚀 **Technical Product/Program Manager | Entrepreneur | Freelance Engineer | Computer Science Professor**
+🚀 **AI Engineering Consultant for Startups | Background in Software Engineering, Technical Product/Program Management | Founder & Entrepreneur | Computer Science Professor | Program Chair, Software Engineering **
 
 ---
 
@@ -11,7 +11,7 @@
 | **Product Management**   | Roadmapping, User Stories, A/B Testing, Analytics (Mixpanel, Amplitude)        |
 | **Agile Methodologies**  | Scrum, Kanban, SAFe, Sprint Planning, Retrospectives, Asana, Confluence                 |
 | **Program Management**   | Risk Management, Dependency Tracking, MS Project, Asana, Monday.com, Smartsheets, Jira, Confluence     |
-| **Technical Skills**     | Python, C#, SQL, AWS, REST APIs, Git, CI/CD, HTML/CSS/JS, No/Low Code CMS, ML Algorithms   |
+| **Software Engineering** | Python, C#, SQL, AWS, REST APIs, Git, CI/CD, HTML/CSS/JS, Agentic AI Workflows, Cursor, Claude, VS Code, LLMs   |
 | **Business & Strategy**  | Market Research, Industry Reports, Financial Modeling, Go-to-Market Strategy, P&L Management, Business Model Canvas, Competitive Analysis, SWOT, Gusto, Quickbooks, Audits, Compliance |
 | **Design & UX**          | Figma, User Journey Mapping, Photoshop, Axure RP, Lucid Charts, Sketch, Basalmiq, Design Sprints |
 | **AI Productivity Tools**| ChatGPT, Grok, Claude, Midjourney, Runway, Gemini, Automation Agents|
