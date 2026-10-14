@@ -1,18 +1,18 @@
-**AI-Native Product Leader • Engineer • Startup Builder**
+**Software Engineer • Technical Product/Program Leader • Entrepreneur • AI Agentic Workhorse**
 
 I work at the intersection of **AI, product management, software engineering, and startup growth** — with 20+ years spanning full-stack development, product and program leadership, entrepreneurship, and higher education.
 
-I'm fully committed to AI as the way I work, not just a thing I work on. Agentic workflows, multi-agent development systems, and AI-assisted delivery are embedded in how I build products, run teams, and operate companies.
+I'm fully committed to AI as the way I work, not just a thing I work on. Agentic workflows, multi-agent development systems, and AI-assisted delivery are embedded in how I build products, automate productivity, solve complex problems, and extend my cognitive capabilities.
 
 ---
 
 ## 🔎 At a Glance
 
-- **Now:** Lead Product Manager / Program Chair, B.S. & M.S. Software Engineering at WGU — and building [Startup Stargate](https://jerstroup.github.io/Stargate/), an agentic AI playbook & system for startup execution
+- **Now:** Lead Product Manager / Program Chair, Software Engineering at WGU — and building [Startup Stargate](https://jerstroup.github.io/Stargate/), an agentic AI playbook & system for startup execution
 - **Founder:** Technical Co-Founder, Chief Growth Officer & Board Member, Monarch Family Counseling — scaled it into one of Utah's larger private practices
 - **Product:** Roadmaps, experimentation, analytics, voice-of-customer, prioritization — from startup 0→1 to enterprise platforms (Instructure, Alianza, First American)
 - **Engineering:** Former full-stack engineer — Python, C#, SQL, REST APIs, AWS, CI/CD — plus consulting through my own firm, OrangeSPIRE
-- **Education:** Launched an Applied AI degree program as a CS professor and program chair at Neumont College
+- **Education:** Launched an Applied AI degree program as a CS professor and program chair at Neumont Colleg - Currently lead the largest online software engineering education program in America.
 - **AI:** Agentic software engineering workflows, AI-assisted development, LLM-powered prototyping, and AI-enabled startup operating systems
 
 ---
